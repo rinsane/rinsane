@@ -37,8 +37,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinsane&show_icons=true&theme=dark&locale=en&layout=compact" alt="rinsane" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinsane&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="rinsane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinsane&show_icons=true&locale=en" alt="rinsane" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinsane&show_icons=true&theme=gruvbox&locale=en&hide=contribs" alt="rinsane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinsane&theme=dark" alt="rinsane" /></p>
