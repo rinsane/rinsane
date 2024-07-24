@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I am Rishabh Raj</h1>
-<h3 align="center">I am a student currently pursuing his Bachelor's in Technology degree in Computer Science and Engineering from Indian Institute of Technology, Jammu. I am a beginner Competitive Programmer with a keen interest in compilers, interpretors and automata designing.</h3>
+<h3 align="center">i like to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverish96&label=Profile%20views%20%F0%9F%91%80&color=0eb456&style=plastic" alt="maverish96" /> </p>
 
