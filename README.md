@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverish96&label=Profile%20views%20%F0%9F%91%80&color=0eb456&style=plastic" alt="maverish96" /> </p>
 
-- 🔭 I’m currently working on **Robust Compiler for Python**
+- 🔭 I’m currently working on **compilers**
 
 - 🌱 I’m currently learning **Rust**
-
-- 📫 How to reach me **realrishabh9@gmail.com**
 
 - ⚡ My likes and interests **Fighter Jets, Football, Guitar, new skills!**
 
