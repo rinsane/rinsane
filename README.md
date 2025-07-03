@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverish96&label=Profile%20views%20%F0%9F%91%80&color=0eb456&style=plastic" alt="maverish96" /> </p>
 
-- 🔭 I’m currently working on **compilers**
+- 🔭 Interested in working on **Low Level Systems**, **Compilers**, **Web3.0**, **Distributed Systems**, **Blockchain**, **Computational Algorithms**, **High Performance Computing Systems**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I have expertise in **Rust**, **Python**, **C/C++**
 
-- ⚡ My likes and interests **Fighter Jets, Football, Guitar, new skills!**
+- ⚡ I like to read about **Fighter Jets**, love playing **Football**, Guitar**, and abcolutely love **Working Out**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
