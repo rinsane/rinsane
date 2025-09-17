@@ -25,4 +25,4 @@ Previously worked at:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rinsane&theme=gruvbox)
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=rinsane&width=300&count=5&header_style=normal_stats&bg_color=#2c2a2c)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=rinsane&width=300&count=5&header_style=normal_stats&bg_color=282828)
