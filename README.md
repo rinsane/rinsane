@@ -1,11 +1,6 @@
 <h1 align="center">Hi! I am Rishabh Raj</h1>
 <h3 align="center">i like to code</h3>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=rinsane&label=Profile%20views%20%F0%9F%91%80&color=0eb456&style=plastic" alt="rinsane" />
-</div>
-
-
 <table align="center">
   <tr>
     <td align="center">🦀<br><b>Rust</b></td>
@@ -46,6 +41,8 @@ I thrive on **Music**! Check out my [Last.fm](https://last.fm/user/rinsane) belo
 
 
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rinsane&label=Profile%20views%20%F0%9F%91%80&color=0eb456&style=plastic)
 
 <!--
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
