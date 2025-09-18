@@ -25,7 +25,7 @@
 I like to read about **Fighter Jets**, love playing **Football**, **Guitar**, and love **Working Out**!  
 I thrive on **Music**! Check out my [Last.fm](https://last.fm/user/rinsane) below :)  
 
-[Turing](https://www.turing.com/) | [Datacurve](https://www.turing.com/)
+[Turing](https://www.turing.com/) | [Datacurve](https://datacurve.ai/)
 
 </div>
 
