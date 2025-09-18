@@ -22,22 +22,18 @@
     <td align="center">📊<br><b>Computational Algorithms</b></td>
     <td align="center">🤖<br><b>Large Language Models</b></td>
   </tr>
-  <tr>
-    <td align="center">️<br><b></b></td>
-    <td align="center"><br><b></b></td>
-    <td align="center"><br><b></b></td>
-  </tr>
 </table>
 
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?width=1000&type=horizontal&theme=gruvbox)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 I like to read about **Fighter Jets**, love playing **Football**, **Guitar**, and love **Working Out**!  
 I thrive on **Music**! Check out my [Last.fm](https://last.fm/user/rinsane) below :)  
 
 [Turing](https://www.turing.com/) | [Datacurve](https://www.turing.com/)
+
 </div>
 
 ---
