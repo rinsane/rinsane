@@ -27,8 +27,6 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 I like to read about **Fighter Jets**, love playing **Football**, **Guitar**, and love **Working Out**!  
 I thrive on **Music**! Check out my [Last.fm](https://last.fm/user/rinsane) below :)  
 
@@ -50,6 +48,7 @@ I thrive on **Music**! Check out my [Last.fm](https://last.fm/user/rinsane) belo
 </div>
 
 <!--
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rinsane&theme=gruvbox)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rinsane&theme=gruvbox&row=1)
 -->
