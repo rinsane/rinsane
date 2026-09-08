@@ -36,10 +36,16 @@ My alt profiles: [rishabhraj-hs](https://github.com/rishabhraj-hs) | [rishabhraj
 <div align="center">
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rinsane&theme=gruvbox) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rinsane&theme=gruvbox) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rinsane&theme=gruvbox) |
-|-----|------|------|
+|-|-|-|
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinsane&theme=gruvbox&animation=stagger&name=rinsane) |
+|-|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhraj-hs&theme=gruvbox&animation=stagger&name=rishabhraj-hs) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhraj96&theme=gruvbox&animation=stagger&name=rishabhraj96) |
+
 
 | ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=rinsane&width=540&count=4&header_style=normal_stats&show_user=header&bg_color=282828) | ![LeetCode Stats](https://leetcard.jacoblin.cool/rinsane?theme=dark&font=arial&ext=heatmap&border_radius=10) |
-| --- | --- |
+|-|-|
 
 
 </div>
