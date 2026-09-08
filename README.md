@@ -14,18 +14,20 @@
   </tr>
   <tr>
     <td align="center">🖥️<br><b>High Performance Computing</b></td>
-    <td align="center">📊<br><b>Computational Algorithms</b></td>
     <td align="center">🤖<br><b>Large Language Models</b></td>
+    <td align="center">📊<br><b>Computational Algorithms</b></td>
   </tr>
 </table>
 
 
 <div align="center">
 
-I like to read about **Fighter Jets**, love playing **Football**, **Guitar**, and love **Working Out**!  
-I thrive on **Music**! Check out my [Last.fm](https://last.fm/user/rinsane) below :)  
+I like to read about **Fighter Jets**, love playing **Football**, **Guitar**, and love **Working Out**!
+I thrive on **Music**! Check out my [Last.fm](https://last.fm/user/rinsane) below :)
 
-[Turing](https://www.turing.com/) | [Datacurve](https://datacurve.ai/)
+My alt profiles: [rishabhraj-hs](https://github.com/rishabhraj-hs) | [rishabhraj96](https://github.com/rishabhraj96)
+
+[Handshake](https://joinhandshake.com/ai) | [Turing](https://www.turing.com/) | [Datacurve](https://datacurve.ai/)
 
 </div>
 
